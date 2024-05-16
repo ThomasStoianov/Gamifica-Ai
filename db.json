@@ -1,5 +1,28 @@
 {
-    "cases": [
-        
-    ]
+  "cases": [
+    {
+      "imagem": "https://unsplash.it/600/400?image=40",
+      "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionários devem propor e implementar ideias inovadoras"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?image=51",
+      "descricao": "Empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?image=67",
+      "descricao": "Uma empresa de vendas implementa uma competição gameficada entre equipes que competem pelo topo do ranking"
+    },
+    {
+      "imagem": "https://unsplash.it/600/400?image=78",
+      "descricao": "Uma empresa de saúde promove o bem-estar dos funcionários através de um desafio de gamificação de condicionamento"
+    }
+  ],
+  "solicitacoes": [
+    {
+      "id": "a405",
+      "nome": "thomás",
+      "email": "stoianov@gmail.com",
+      "descricao": "matue n lança o album"
+    }
+  ]
 }
