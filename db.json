@@ -2,19 +2,23 @@
   "cases": [
     {
       "imagem": "https://unsplash.it/600/400?image=40",
-      "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionários devem propor e implementar ideias inovadoras"
+      "descricao": "Uma empresa de tecnologia lança um desafio de gamificação onde os funcionários devem propor e implementar ideias inovadoras",
+      "id": "8a82"
     },
     {
       "imagem": "https://unsplash.it/600/400?image=51",
-      "descricao": "Empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento"
+      "descricao": "Empresa de consultoria cria uma narrativa interativa de gamificação para seu programa de treinamento",
+      "id": "092e"
     },
     {
       "imagem": "https://unsplash.it/600/400?image=67",
-      "descricao": "Uma empresa de vendas implementa uma competição gameficada entre equipes que competem pelo topo do ranking"
+      "descricao": "Uma empresa de vendas implementa uma competição gameficada entre equipes que competem pelo topo do ranking",
+      "id": "1a92"
     },
     {
       "imagem": "https://unsplash.it/600/400?image=78",
-      "descricao": "Uma empresa de saúde promove o bem-estar dos funcionários através de um desafio de gamificação de condicionamento"
+      "descricao": "Uma empresa de saúde promove o bem-estar dos funcionários através de um desafio de gamificação de condicionamento",
+      "id": "c099"
     }
   ],
   "solicitacoes": [
@@ -23,6 +27,30 @@
       "nome": "thomás",
       "email": "stoianov@gmail.com",
       "descricao": "matue n lança o album"
+    },
+    {
+      "id": "81e7",
+      "nome": "eu",
+      "email": "eu@gmail.com",
+      "descricao": "eu"
+    },
+    {
+      "id": "dec0",
+      "nome": "eu",
+      "email": "eu@gmail.com",
+      "descricao": "eu"
+    },
+    {
+      "id": "aa50",
+      "nome": "ui",
+      "email": "",
+      "descricao": ""
+    },
+    {
+      "id": "10c2",
+      "nome": "gnxv",
+      "email": "fhdh@gmail.com",
+      "descricao": "hvhv"
     }
   ]
 }
